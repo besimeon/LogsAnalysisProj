@@ -2,7 +2,7 @@
 ----------------------
 -This is a project created for Udacity Course: Full Stack Web Developer.
 
--This project uses Python3 + PostgreSql to connect to a news database in the enviornment it is being run from, checking for existence of &/or creating database views, performs multiple queries utilizing aforementioned views and existing tables, and outputs data in a visually aesthetic format to answer each of the questions posed in the project assignment.
+-This project uses Python3 + PostgreSql to connect to a news database, checking for existence of &/or creating database views, performs multiple queries utilizing aforementioned views and existing tables, and outputs data in a visually aesthetic format to answer questions posed in the project assignment.
 
 ##Table of Contents
 -------------------
